@@ -38,6 +38,9 @@ Pakct
 https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783553112
 https://www.packtpub.com/free-ebooks/python-machine-learning-example
 
+DS and Algo and Python basics on this github
+https://github.com/richardvecsey
+
 Ml For artists
 https://ml4a.github.io/
 
