@@ -70,3 +70,12 @@ https://github.com/Subhajit135/Code-Sleep-Python
 Great Resource for AI - https://distill.pub/2019/computing-receptive-fields/
 
 Poke GANs - https://github.com/Subhajit135/pokeGAN
+
+Hackernoon - https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d
+https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037#.qv49ic2ok
+https://hackernoon.com/learning-ai-if-you-suck-at-math-part-two-practical-projects-47d7a1e4e21f#.p1x8tjxyx
+
+
+https://www.pluralsight.com/partners/microsoft/azure
+
+Cross Entropy -  https://machinelearningmastery.com/cross-entropy-for-machine-learning/
