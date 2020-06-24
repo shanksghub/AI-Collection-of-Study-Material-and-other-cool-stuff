@@ -79,3 +79,7 @@ https://hackernoon.com/learning-ai-if-you-suck-at-math-part-two-practical-projec
 https://www.pluralsight.com/partners/microsoft/azure
 
 Cross Entropy -  https://machinelearningmastery.com/cross-entropy-for-machine-learning/
+
+A must read medium post on books to be a Better Programmer.. 
+
+https://medium.com/young-coder/five-books-that-can-help-you-become-a-better-programmer-38be6cbd7b43
